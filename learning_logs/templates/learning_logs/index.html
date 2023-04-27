@@ -1,15 +1,5 @@
-<!DOCTYPE html>
-<html lang="PL">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Strona główna projectu Learning Logs</title>
-</head>
-<body>
-    <p>Learning Log</p>
+{% extends "learning_logs/base.html" %}
 
-    <p>Learning Log pomaga w monitorowaniu postępów w nauce podczas poznawania dowolnego tematu.</p>
-
-</body>
-</html>
+{%  block content %}
+    <p>Learning Log pomaga w monitorowaniu postepów w nauce.</p>
+{%  endblock content %}

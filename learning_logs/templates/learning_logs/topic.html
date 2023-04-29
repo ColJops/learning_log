@@ -13,5 +13,9 @@
         <li>Nie ma jeszcze żadnego wpisu.</li>
     {% endfor %}
     </ul>
-    
+
+    <p>
+        <a href="{% url 'learning_logs:new_entry' topic.id %}">Dodaj nowy wpis</a>
+    </p>
+
 {% endblock content %}

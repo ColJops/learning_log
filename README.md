@@ -4,7 +4,6 @@ http://helion.pl (księgarnia internetowa, katalog książek)
 https://helion.pl/ksiazki/python-instrukcje-dla-programisty-wydanie-ii-eric-matthes,blkpy2.htm#format (strona książki)
 
 Technology:
-Python
-Django Fremawork
+Python + Django FrAmEwork + HTML
 
 This is my first project using Django Framework. The code was based on the book: Eric Matthes "Python Instructions for the Programmer" pub. Helion http://helion.pl (online bookstore, book catalog) https://helion.pl/ksiazki/python-instrukcje-dla-programisty-wydanie-ii-eric-matthes,blkpy2.htm#format (book page)
